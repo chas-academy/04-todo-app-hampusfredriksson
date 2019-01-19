@@ -1,4 +1,4 @@
-todo.hampus.app
+https://todo.hampus.app
 
 # 04-todo-app
 A todo app in PHP
